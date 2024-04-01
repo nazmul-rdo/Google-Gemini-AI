@@ -56,3 +56,4 @@ AI Code Buddy is a React application under development that aims to be your help
 - `npm run eject`: Ejects the React app for more customization (use with caution).
 
 **Please note:** This documentation reflects the current state of the codebase and might not accurately represent future features or capabilities.
+# Google-Gemini-AI
